@@ -1,5 +1,6 @@
 
-numsecurite=str(input("Entrer votre numéro de sécurité sociale (13 chiffres) --> "))
+numsecurite=str(input("Entrer un numéro de sécurité sociale (13 chiffres) --> "))
+
 chiffre=int(numsecurite)
 if len(numsecurite)==13:
 
